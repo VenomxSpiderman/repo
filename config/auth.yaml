@@ -1,0 +1,24 @@
+cookie:
+  expiry_days: 7
+  key: gym_assister_cookie_secret_change_me
+  name: gym_assister_auth
+credentials:
+  usernames:
+    abcd:
+      email: ''
+      first_name: T
+      last_name: ''
+      logged_in: false
+      password: $2b$12$e93tbmajPZDiseLQRHHTVOv9K/00Cl07FnzdkXTryOE05kW3w.fzW
+    admin:
+      email: admin@gymassister.local
+      first_name: Admin
+      last_name: User
+      logged_in: false
+      password: $2b$12$DypHU0T0lgQ8gUfSrSxn1.VJwG56dfbtl9ltGPMOiUgcUFVAZ9HGO
+    john:
+      email: john@example.com
+      first_name: John
+      last_name: Doe
+      logged_in: false
+      password: $2b$12$6YgXAeWsivvTsvy3oHMXEucAm6O0Sx3voaPg2Pz8PvtqgbuR7P0f6
